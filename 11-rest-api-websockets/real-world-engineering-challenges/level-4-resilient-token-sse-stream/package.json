@@ -1,0 +1,12 @@
+{
+  "name": "level-4-resilient-token-sse-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
